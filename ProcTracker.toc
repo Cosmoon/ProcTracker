@@ -1,0 +1,6 @@
+## Interface: 11400
+## Title: ProcTracker
+## Notes: Tracks Darkmoon Card: Blue Dragon procs.
+## Author: OpenAI
+## Version: 0.2
+ProcTracker.lua
